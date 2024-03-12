@@ -1,0 +1,63 @@
+/* Ubuntu Bold */
+@font-face {
+    font-family: 'Ubuntu';
+    src: url('fonts/Ubuntu-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+/* Ubuntu Bold Italic */
+@font-face {
+    font-family: 'Ubuntu';
+    src: url('fonts/Ubuntu-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+/* Ubuntu Italic */
+@font-face {
+    font-family: 'Ubuntu';
+    src: url('fonts/Ubuntu-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+/* Ubuntu Light */
+@font-face {
+    font-family: 'Ubuntu';
+    src: url('fonts/Ubuntu-Light.ttf') format('truetype');
+    font-weight: lighter;
+    font-style: normal;
+}
+
+/* Ubuntu Light Italic */
+@font-face {
+    font-family: 'Ubuntu';
+    src: url('fonts/Ubuntu-LightItalic.ttf') format('truetype');
+    font-weight: lighter;
+    font-style: italic;
+}
+
+/* Ubuntu Medium */
+@font-face {
+    font-family: 'Ubuntu';
+    src: url('fonts/Ubuntu-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+/* Ubuntu Medium Italic */
+@font-face {
+    font-family: 'Ubuntu';
+    src: url('fonts/Ubuntu-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
+
+/* Ubuntu Regular */
+@font-face {
+    font-family: 'Ubuntu';
+    src: url('fonts/Ubuntu-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
