@@ -54,9 +54,9 @@ const Home = () => {
     }
 
     useEffect(() => {
-        if (!cookies.token) {
-            navigate("/login");
-        }
+        // if (!cookies.token) {
+        //     navigate("/login");
+        // }
         fetchItems()
     }, []);
 
